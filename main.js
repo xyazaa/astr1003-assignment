@@ -1,5 +1,4 @@
-import { animate, utils, createDraggable, createSpring, text, stagger} from 'animejs';
-import { createCanvasElement } from 'three';
+
 
 import { lookCamera, moveCamera, switchScene, renderShapes} from './models';
 

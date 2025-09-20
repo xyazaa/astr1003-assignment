@@ -1,8 +1,4 @@
-import * as THREE from 'three';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';    
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-import { ParametricGeometry } from 'three/addons/geometries/ParametricGeometry.js';
-import { animate, utils, createDraggable, createSpring } from 'animejs';
+
 
 import {incrementScene} from './main'
 
