@@ -74,7 +74,7 @@ function firstClick()
 //3D Model
 const loader = new GLTFLoader();
 let bh;
-loader.load('/black_hole.glb', (glb)=>{ //https://sketchfab.com/3d-models/black-hole-e410da98b1e5445eae2acafaaa53587d
+loader.load('./black_hole.glb', (glb)=>{ //https://sketchfab.com/3d-models/black-hole-e410da98b1e5445eae2acafaaa53587d
     glb.scene.scale.set(1,1,1) 
     sceneBH.add(glb.scene);
     bh = glb.scene;
@@ -83,7 +83,7 @@ loader.load('/black_hole.glb', (glb)=>{ //https://sketchfab.com/3d-models/black-
 }
 
 let sun;
-loader.load('/sun.glb', glb =>{ //https://sketchfab.com/3d-models/sun-9ef1c68fbb944147bcfcc891d3912645
+loader.load('./sun.glb', glb =>{ //https://sketchfab.com/3d-models/sun-9ef1c68fbb944147bcfcc891d3912645
     sceneSun.add(glb.scene);
     sun = glb.scene;
 }), undefined, function (error) {
