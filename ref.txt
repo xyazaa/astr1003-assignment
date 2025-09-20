@@ -1,0 +1,76 @@
+Theories which attempt to describe the fate of the universe partly rely on the properties of 
+gravity, the overall geometry of the universe, and dark energy.
+
+The geometry of the universe is determined by its density (average matter) compared to a critical density. 
+This critial density is proportional to the Hubble Constant and tells us if the average matter in the universe can
+simply halt the expansion in an infinite amount of time. If the density is greater than the critical density, then
+the geometry of space is closed and positively closed (alike a sphere). If the density is equal to the critical density, then
+the geometry of the universe is flat, alike a sheet of paper, and infinite in extent. If density is less than
+critical density, then the geometry of space is open, and negetively closed (alike a saddle like shape).
+https://www.astronomy.swin.edu.au/cosmos/C/Critical+Density
+https://wmap.gsfc.nasa.gov/universe/uni_shape.html
+
+
+Currently the universe is expanding according to the Hubble Constant, and seems to be accelarating instead of 
+decreasing from gravity due to a unknown force called dark energy. Scientist currently don't know exactly 
+what is dark energy, but they do know it exists and it is the something which is speeding up expansion. There are 
+two main explanation for dark energy:
+Vacuum energy
+A fundamental, ever-present background energy called vacuum energy, which could be equal to the cosmological constant,
+a mathematical term in Einstein's equations in the Theory of General Relativity. It is a vacuum energy of empty 
+space which was used to keep the universe static rather than contracting or expanding according to his equation. 
+However, once Hubble observed that the universe was expanding, he quickly removed this constant. If this is dark
+energy is equal to this 'cosmological constant' then dark energy would not only balance gravity but exude a negetive
+pressure which then causes the expansion of the universe.
+Quintessence
+Nicknamed Quintessence after the proposed mysterious fifth element proposed by the ancient Greeks. 
+This energy could be a sort of energy fluid or field which fills space and behaves in a opposite way to normal 
+matter and can vary in amounts and distributions in space and time.
+https://astronomy.swin.edu.au/cosmos/*/Dark+Energy
+https://science.nasa.gov/dark-energy/#hds-sidebar-nav-5
+
+
+If the universe is closed, then there are two possibilies. If the universe has a lot of dark
+energy, then expansion could continue forever. However, if the universe lacks the repulsive force of dark energy 
+then gravity will eventually stop the expansion, and start to contract untill all matter collapses into a 
+singularity.
+
+If the universe is open or even flat, the universe will continue expand because gravity alone will not be sufficient to
+stop the expansion.
+https://www.physicsoftheuniverse.com/topics_bigbang_bigcrunch.html
+https://wmap.gsfc.nasa.gov/universe/uni_fate.html
+https://www.parkes.atnf.csiro.au/people/sar049/eternal_life/universe/universe.html
+
+These situations give 4 main possible states to the end of the universe.
+
+Big Freeze
+In the case that the universe continues to expand forever, galaxies will continue to seperate and star formation
+within the galaxies will ceases as there is not enough material to form new stars. Then the universe will
+eventually cool down to absolute zero, a heat death will occur. In this state, no life will be able to exist.
+
+Big Crunch
+The universe will begin to contract, and continue into a singularity point. Eventually, the universe will enter a 
+fireball state like the state which the Big Bang originated from. This gives form to the "Oscillating Theory 
+of the Universe", where the universe contracts and expands in a cyclic way.
+
+Big Rip
+This occurs if dark energy continues to cause the accelarating expansion of the universe without limit, then
+dark energy could become so strong and overwhelm the other fundamental forces. This will cause galaxies to pull 
+apart, then stars, then atoms themselves.
+
+Big Bounce
+Derived from the Big Crunch and Big Bang theory, it predicts if the Big Crunch compacts the universe to a 
+singularity, another Big Bang could occur in which another universe will emerge. This means that we could currently
+live in a series of universes.
+
+From recent research, the probability of the Big Crunch and Big Bounce theory has become negliable. Current 
+research from WMAP satellites and Cosmic Background Imager indicate that the universe has a flat shape, giving 
+favour to the theory of the Big Freeze. 
+
+https://www.universetoday.com/articles/oscillating-universe-theory
+
+
+"I had a dream, which was not all a dream.
+The bright sun was extinguish'd, and the stars
+Did wander darkling in the eternal space" - Lord Byron
+https://www.poetryfoundation.org/poems/43825/darkness-56d222aeeee1b
